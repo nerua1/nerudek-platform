@@ -147,5 +147,67 @@
     "galleryDescription": "Selected fashion, editorial, and digital art works by Nerudek.",
     "aboutTitle": "About",
     "aboutDescription": "Learn more about Nerudek — model, content creator, and AI enthusiast."
+  },
+  "helix": {
+    "heading": "The Engine",
+    "subheading": "Where code meets creativity. The NERUDEK AI agent powers the vibe.",
+    "skills": {
+      "creativity": "Creativity",
+      "precision": "Precision",
+      "vibe": "Vibe"
+    }
+  },
+  "faq": {
+    "heading": "FAQ",
+    "subheading": "Everything you need to know about Nerudek and the creative ecosystem.",
+    "items": [
+      {
+        "q": "What is Nerudek?",
+        "a": "Nerudek is a model, content creator, and AI enthusiast exploring the intersection of fashion, photography, and technology. Based in Europe, creating globally."
+      },
+      {
+        "q": "How does the AI Agent work?",
+        "a": "The NERUDEK AI engine analyzes creative patterns, color palettes, and trends to generate unique visual experiences and automate creative workflows."
+      },
+      {
+        "q": "Is my data secure?",
+        "a": "Yes. We use enterprise-grade encryption and follow strict data protection protocols. All processing happens locally where possible."
+      },
+      {
+        "q": "What platforms is Nerudek on?",
+        "a": "You can find exclusive content on OnlyFans and Fansly. Public content is shared across Instagram, X/Twitter, and this website."
+      },
+      {
+        "q": "How does the user onboarding work?",
+        "a": "Our onboarding process is smooth and intuitive. You are guided through personalization steps to tailor the experience to your preferences."
+      }
+    ]
+  },
+  "tools": {
+    "heading": "Creative Tools",
+    "subheading": "Free, client-side tools running on WebAssembly. Your files never leave your device.",
+    "footnote": "All processing happens locally in your browser via WebAssembly. File size limits apply.",
+    "tools": {
+      "jpg2png": {
+        "label": "JPG ↔ PNG",
+        "placeholder": "JPG ↔ PNG converter ready. Drop an image to convert between formats losslessly."
+      },
+      "rmbg": {
+        "label": "Remove BG",
+        "placeholder": "Background removal ready. Drop an image to remove its background using on-device AI."
+      },
+      "compress": {
+        "label": "Compress",
+        "placeholder": "Image compressor ready. Drop images to reduce file size while preserving quality."
+      },
+      "qr": {
+        "label": "QR Code",
+        "placeholder": "QR code generator ready. Enter a URL or text to generate a scannable QR code."
+      },
+      "favicon": {
+        "label": "Favicon",
+        "placeholder": "Favicon generator ready. Drop an image to generate all favicon sizes for your website."
+      }
+    }
   }
 }

@@ -147,5 +147,67 @@
     "galleryDescription": "Wybrane prace z zakresu mody, edytoriału i sztuki cyfrowej autorstwa Nerudek.",
     "aboutTitle": "O mnie",
     "aboutDescription": "Dowiedz się więcej o Nerudek — modelce, twórczyni treści i entuzjastce AI."
+  },
+  "helix": {
+    "heading": "Silnik",
+    "subheading": "Gdzie kod spotyka kreatywność. Agent AI NERUDEK napędza klimat.",
+    "skills": {
+      "creativity": "Kreatywność",
+      "precision": "Precyzja",
+      "vibe": "Klimat"
+    }
+  },
+  "faq": {
+    "heading": "FAQ",
+    "subheading": "Wszystko co musisz wiedzieć o Nerudek i ekosystemie kreatywnym.",
+    "items": [
+      {
+        "q": "Kim jest Nerudek?",
+        "a": "Nerudek to modelka, twórczyni treści i entuzjastka AI, eksplorująca przecięcie mody, fotografii i technologii. Z siedzibą w Europie, tworzy globalnie."
+      },
+      {
+        "q": "Jak działa Agent AI?",
+        "a": "Silnik AI NERUDEK analizuje kreatywne wzorce, palety kolorów i trendy, aby generować unikalne doświadczenia wizualne i automatyzować procesy twórcze."
+      },
+      {
+        "q": "Czy moje dane są bezpieczne?",
+        "a": "Tak. Używamy szyfrowania na poziomie korporacyjnym i przestrzegamy ścisłych protokołów ochrony danych. Przetwarzanie odbywa się lokalnie, gdzie to możliwe."
+      },
+      {
+        "q": "Na jakich platformach jest Nerudek?",
+        "a": "Ekskluzywne treści znajdziesz na OnlyFans i Fansly. Publiczne treści udostępniane są na Instagramie, X/Twitterze i tej stronie."
+      },
+      {
+        "q": "Jak działa proces onboardingu?",
+        "a": "Nasz proces onboardingu jest płynny i intuicyjny. Prowadzimy Cię przez kroki personalizacji, aby dostosować doświadczenie do Twoich preferencji."
+      }
+    ]
+  },
+  "tools": {
+    "heading": "Narzędzia Kreatywne",
+    "subheading": "Darmowe narzędzia działające po stronie klienta na WebAssembly. Twoje pliki nigdy nie opuszczają urządzenia.",
+    "footnote": "Całe przetwarzanie odbywa się lokalnie w przeglądarce przez WebAssembly. Obowiązują limity rozmiaru plików.",
+    "tools": {
+      "jpg2png": {
+        "label": "JPG ↔ PNG",
+        "placeholder": "Konwerter JPG ↔ PNG gotowy. Upuść obraz, aby przekonwertować między formatami bezstratnie."
+      },
+      "rmbg": {
+        "label": "Usuń tło",
+        "placeholder": "Usuwanie tła gotowe. Upuść obraz, aby usunąć tło za pomocą AI na urządzeniu."
+      },
+      "compress": {
+        "label": "Kompresja",
+        "placeholder": "Kompresor obrazów gotowy. Upuść obrazy, aby zmniejszyć rozmiar pliku przy zachowaniu jakości."
+      },
+      "qr": {
+        "label": "Kod QR",
+        "placeholder": "Generator kodów QR gotowy. Wprowadź URL lub tekst, aby wygenerować zeskanowalny kod QR."
+      },
+      "favicon": {
+        "label": "Favicon",
+        "placeholder": "Generator favicon gotowy. Upuść obraz, aby wygenerować wszystkie rozmiary favicon dla Twojej strony."
+      }
+    }
   }
 }
