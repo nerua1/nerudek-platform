@@ -2,6 +2,9 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import HeroSection from "@/components/sections/HeroSection";
 import AboutSection from "@/components/sections/AboutSection";
+import GallerySection from "@/components/sections/GallerySection";
+import BlogSection from "@/components/sections/BlogSection";
+import PromoSection from "@/components/sections/PromoSection";
 
 export default function HomePage() {
   return (
@@ -10,12 +13,9 @@ export default function HomePage() {
       <main id="main-content">
         <HeroSection />
         <AboutSection />
-        {/* TODO: <GallerySection /> */}
-        <section id="gallery" aria-label="Gallery" />
-        {/* TODO: <BlogSection /> */}
-        <section id="blog" aria-label="Blog" />
-        {/* TODO: <PromoSection /> */}
-        <section id="promo" aria-label="Sister sites" />
+        <GallerySection />
+        <BlogSection />
+        <PromoSection />
       </main>
       <Footer />
     </>
