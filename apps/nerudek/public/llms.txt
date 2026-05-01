@@ -1,0 +1,17 @@
+# Nerudek
+
+> Polish model, photographer, and AI content creator. Free browser-based tools at nerudek.com/tools.
+
+Nerudek (Iwona) is a professional model and content creator based in Poland. She creates fashion photography, AI-assisted content, and offers free online tools that run entirely in the browser — no data leaves your device.
+
+## Free Tools
+- Images: WebP→JPG, remove background, compress image, HEIC→JPG, image to SVG
+- Developer: Glass CSS generator, QR code generator, code diff viewer, PDF to Word
+- Text: Word counter with SEO metrics, case converter
+- AI: Prompt enhancer for Stable Diffusion and ChatGPT
+
+## Content
+Fashion photography, vibe coding, AI tools, modeling techniques.
+
+## Contact
+For collaborations: nerudek.com

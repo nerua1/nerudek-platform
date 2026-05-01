@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 340" fill="none">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#E8C97A"/>
+      <stop offset="40%"  stop-color="#C9A84C"/>
+      <stop offset="70%"  stop-color="#A67C2E"/>
+      <stop offset="100%" stop-color="#C9A84C"/>
+    </linearGradient>
+    <linearGradient id="goldText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#D4AF5A"/>
+      <stop offset="50%"  stop-color="#F0D07A"/>
+      <stop offset="100%" stop-color="#B8922A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Skirt / fabric stripes at top -->
+  <rect x="72" y="18" width="110" height="9"  rx="4" fill="url(#gold)"/>
+  <rect x="84" y="33" width="90"  height="7"  rx="3" fill="url(#gold)" opacity="0.85"/>
+  <rect x="94" y="46" width="72"  height="6"  rx="3" fill="url(#gold)" opacity="0.70"/>
+
+  <!-- Main leg silhouette -->
+  <path d="
+    M 130 58
+    C 135 58, 148 62, 155 72
+    C 165 86, 168 104, 164 122
+    C 160 140, 150 154, 155 172
+    C 160 190, 178 200, 182 218
+    C 186 236, 178 252, 168 264
+    C 158 276, 146 282, 140 296
+    C 134 310, 136 320, 132 328
+    C 130 333, 126 336, 122 334
+    C 116 330, 114 322, 116 314
+    C 118 304, 124 296, 126 286
+    C 130 272, 128 258, 120 246
+    C 112 234, 100 228, 96 214
+    C 90 196, 98 178, 104 162
+    C 110 146, 112 130, 108 114
+    C 104 98, 96 86, 98 72
+    C 100 60, 112 54, 122 56
+    Z
+  " fill="url(#gold)"/>
+
+  <!-- Knee highlight -->
+  <ellipse cx="158" cy="170" rx="14" ry="18" fill="url(#gold)" opacity="0.4"/>
+
+  <!-- Stiletto heel -->
+  <path d="
+    M 122 334
+    C 118 336, 108 338, 96 336
+    C 88 334, 82 330, 84 325
+    C 86 320, 92 319, 98 320
+    C 106 322, 114 326, 122 334
+    Z
+  " fill="url(#gold)"/>
+
+  <!-- Point of heel -->
+  <path d="M 84 325 L 58 318 L 80 322 Z" fill="url(#gold)"/>
+
+</svg>

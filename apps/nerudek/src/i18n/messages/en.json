@@ -1,0 +1,144 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "gallery": "Gallery",
+    "blog": "Blog",
+    "promo": "Explore",
+    "contact": "Contact",
+    "toggleMenu": "Toggle navigation menu",
+    "closeMenu": "Close navigation menu",
+    "languageSwitcher": "Language"
+  },
+  "hero": {
+    "title": "Nerudek",
+    "subtitle": "Model, content creator & AI enthusiast. Fashion photography, vibe coding, and digital aesthetics.",
+    "tagline": "Model, content creator & AI enthusiast. Fashion photography, vibe coding, and digital aesthetics.",
+    "cta": {
+      "onlyfans": "OnlyFans",
+      "fansly": "Fansly",
+      "support": "Support"
+    },
+    "ctaPrimary": "OnlyFans",
+    "ctaSecondary": "Fansly",
+    "scrollIndicator": "Scroll to explore",
+    "scrollHint": "Scroll to explore"
+  },
+  "about": {
+    "heading": "About",
+    "subheading": "A creative mind at the intersection of fashion, technology, and self-expression.",
+    "body": {
+      "p1": "Nerudek is a model and digital creator exploring the edges of fashion photography, AI-driven creativity, and authentic online presence. Based in Europe, working globally.",
+      "p2": "Beyond the camera, she writes about vibe coding, experiments with generative tools, and tends to a growing garden — both digital and real. Every project is a blend of precision and play."
+    },
+    "stats": {
+      "experience": "Years creating",
+      "content": "Pieces of content",
+      "audience": "Community members"
+    },
+    "cta": "Read the blog"
+  },
+  "gallery": {
+    "heading": "Portfolio",
+    "subheading": "Selected works across fashion, editorial, and digital art.",
+    "viewMore": "View project",
+    "categories": {
+      "fashion": "Fashion",
+      "editorial": "Editorial",
+      "digital": "Digital"
+    }
+  },
+  "blog": {
+    "heading": "Journal",
+    "subheading": "Thoughts on AI, creativity, books, and beginner gardening.",
+    "readMore": "Read article",
+    "publishedAt": "Published {date}",
+    "readingTime": "{minutes} min read",
+    "categories": {
+      "ai": "AI & Agents",
+      "coding": "Vibe Coding",
+      "photography": "Photography",
+      "books": "Books",
+      "gardening": "Gardening"
+    },
+    "empty": "No articles yet. Check back soon.",
+    "backToBlog": "Back to journal"
+  },
+  "promo": {
+    "heading": "Sister Projects",
+    "subheading": "Explore other corners of the universe.",
+    "wonna": {
+      "name": "wonna.best",
+      "description": "A curated space for bold aesthetics and digital culture.",
+      "cta": "Visit wonna.best"
+    },
+    "aztun": {
+      "name": "aztun.com",
+      "description": "Experimental projects at the edge of art and code.",
+      "cta": "Visit aztun.com"
+    },
+    "status": {
+      "comingSoon": "Coming soon",
+      "live": "Live"
+    }
+  },
+  "footer": {
+    "tagline": "Model, creator & AI enthusiast.",
+    "copyright": "© {year} Nerudek. All rights reserved.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Use",
+      "contact": "Contact",
+      "rss": "RSS Feed"
+    },
+    "platforms": {
+      "heading": "Platforms"
+    },
+    "sisterSites": {
+      "heading": "Sister Sites"
+    },
+    "backToTop": "Back to top"
+  },
+  "modal": {
+    "ageVerification": {
+      "title": "Age Verification",
+      "description": "This website contains age-restricted content. By proceeding, you confirm that you are at least 18 years old.",
+      "confirm": "I am 18 or older — Enter",
+      "exit": "I am under 18 — Leave",
+      "disclaimer": "All content is created and owned by Nerudek. External platform links are provided for adults only."
+    },
+    "close": "Close modal"
+  },
+  "a11y": {
+    "skipToContent": "Skip to main content",
+    "externalLink": "Opens in a new tab",
+    "logoAlt": "Nerudek logo",
+    "heroImageAlt": "Nerudek — fashion and portrait photography",
+    "menuOpen": "Menu opened",
+    "menuClosed": "Menu closed"
+  },
+  "common": {
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "Something went wrong. Please try again.",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "readMore": "Read more",
+    "comingSoon": "Coming soon",
+    "openInNewTab": "Opens in a new tab",
+    "allRightsReserved": "All rights reserved.",
+    "share": "Share",
+    "copied": "Copied to clipboard"
+  },
+  "meta": {
+    "homeTitle": "Nerudek — Model, Creator & AI Enthusiast",
+    "homeDescription": "Official website of Nerudek. Fashion photography, digital creativity, AI experiments, and authentic content.",
+    "blogTitle": "Journal",
+    "blogDescription": "Articles on AI tools, vibe coding, photography, books, and beginner gardening.",
+    "galleryTitle": "Portfolio",
+    "galleryDescription": "Selected fashion, editorial, and digital art works by Nerudek.",
+    "aboutTitle": "About",
+    "aboutDescription": "Learn more about Nerudek — model, content creator, and AI enthusiast."
+  }
+}

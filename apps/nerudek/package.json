@@ -1,0 +1,41 @@
+{
+  "name": "@platform/nerudek",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --port 3000",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@gsap/react": "^2.1.2",
+    "@platform/core": "workspace:*",
+    "@platform/seo": "workspace:*",
+    "@platform/ui": "workspace:*",
+    "@react-three/drei": "^10.1.2",
+    "@react-three/fiber": "^9.1.2",
+    "framer-motion": "^12.7.4",
+    "gsap": "^3.12.5",
+    "next": "15.5.15",
+    "next-intl": "^4.1.0",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "three": "^0.176.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@tailwindcss/typography": "^0.5.19",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/three": "^0.176.0",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.15",
+    "tailwindcss": "^4",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "^5.7.3"
+  }
+}

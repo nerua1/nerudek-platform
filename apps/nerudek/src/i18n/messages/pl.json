@@ -1,0 +1,144 @@
+{
+  "nav": {
+    "home": "Strona główna",
+    "about": "O mnie",
+    "gallery": "Galeria",
+    "blog": "Blog",
+    "promo": "Inne projekty",
+    "contact": "Kontakt",
+    "toggleMenu": "Przełącz menu nawigacji",
+    "closeMenu": "Zamknij menu nawigacji",
+    "languageSwitcher": "Język"
+  },
+  "hero": {
+    "title": "Nerudek",
+    "subtitle": "Modelka, twórczyni treści i entuzjastka AI. Fotografia modowa, vibe coding i estetyka cyfrowa.",
+    "tagline": "Modelka, twórczyni treści i entuzjastka AI. Fotografia modowa, vibe coding i estetyka cyfrowa.",
+    "cta": {
+      "onlyfans": "OnlyFans",
+      "fansly": "Fansly",
+      "support": "Wesprzyj"
+    },
+    "ctaPrimary": "OnlyFans",
+    "ctaSecondary": "Fansly",
+    "scrollIndicator": "Przewiń, aby odkrywać",
+    "scrollHint": "Przewiń, aby odkrywać"
+  },
+  "about": {
+    "heading": "O mnie",
+    "subheading": "Kreatywny umysł na styku mody, technologii i autentyczności.",
+    "body": {
+      "p1": "Nerudek to modelka i twórczyni cyfrowa, która eksploruje granice fotografii modowej, kreatywności wspieranej przez AI oraz autentycznej obecności w sieci. Baza w Europie, działalność globalna.",
+      "p2": "Poza kamerą pisze o vibe codingu, eksperymentuje z narzędziami generatywnymi i pielęgnuje ogród — zarówno cyfrowy, jak i prawdziwy. Każdy projekt to połączenie precyzji i zabawy."
+    },
+    "stats": {
+      "experience": "Lat tworzenia",
+      "content": "Stworzonych treści",
+      "audience": "Członków społeczności"
+    },
+    "cta": "Przeczytaj bloga"
+  },
+  "gallery": {
+    "heading": "Portfolio",
+    "subheading": "Wybrane prace z obszaru mody, edytoriału i sztuki cyfrowej.",
+    "viewMore": "Zobacz projekt",
+    "categories": {
+      "fashion": "Moda",
+      "editorial": "Edytorial",
+      "digital": "Cyfrowe"
+    }
+  },
+  "blog": {
+    "heading": "Dziennik",
+    "subheading": "Refleksje o AI, kreatywności, książkach i ogrodnictwie dla początkujących.",
+    "readMore": "Czytaj artykuł",
+    "publishedAt": "Opublikowano {date}",
+    "readingTime": "{minutes} min czytania",
+    "categories": {
+      "ai": "AI i agenci",
+      "coding": "Vibe Coding",
+      "photography": "Fotografia",
+      "books": "Książki",
+      "gardening": "Ogrodnictwo"
+    },
+    "empty": "Jeszcze nie ma artykułów. Sprawdź wkrótce.",
+    "backToBlog": "Wróć do dziennika"
+  },
+  "promo": {
+    "heading": "Siostrzane projekty",
+    "subheading": "Odkryj inne zakątki tego uniwersum.",
+    "wonna": {
+      "name": "wonna.best",
+      "description": "Przestrzeń pełna odważnej estetyki i cyfrowej kultury.",
+      "cta": "Odwiedź wonna.best"
+    },
+    "aztun": {
+      "name": "aztun.com",
+      "description": "Eksperymentalne projekty na styku sztuki i kodu.",
+      "cta": "Odwiedź aztun.com"
+    },
+    "status": {
+      "comingSoon": "Wkrótce",
+      "live": "Aktywna"
+    }
+  },
+  "footer": {
+    "tagline": "Modelka, twórczyni i entuzjastka AI.",
+    "copyright": "© {year} Nerudek. Wszelkie prawa zastrzeżone.",
+    "links": {
+      "privacy": "Polityka prywatności",
+      "terms": "Regulamin",
+      "contact": "Kontakt",
+      "rss": "Kanał RSS"
+    },
+    "platforms": {
+      "heading": "Platformy"
+    },
+    "sisterSites": {
+      "heading": "Siostrzane strony"
+    },
+    "backToTop": "Wróć na górę"
+  },
+  "modal": {
+    "ageVerification": {
+      "title": "Weryfikacja wieku",
+      "description": "Ta strona zawiera treści przeznaczone wyłącznie dla osób pełnoletnich. Kontynuując, potwierdzasz, że masz ukończone 18 lat.",
+      "confirm": "Mam 18 lat lub więcej — Wejdź",
+      "exit": "Nie mam 18 lat — Wyjdź",
+      "disclaimer": "Wszystkie treści są tworzone i własnością Nerudek. Linki do zewnętrznych platform przeznaczone są wyłącznie dla osób dorosłych."
+    },
+    "close": "Zamknij okno"
+  },
+  "a11y": {
+    "skipToContent": "Przejdź do treści",
+    "externalLink": "Otwiera się w nowej karcie",
+    "logoAlt": "Logo Nerudek",
+    "heroImageAlt": "Nerudek — fotografia modowa i portretowa",
+    "menuOpen": "Menu otwarte",
+    "menuClosed": "Menu zamknięte"
+  },
+  "common": {
+    "close": "Zamknij",
+    "loading": "Ładowanie...",
+    "error": "Coś poszło nie tak. Spróbuj ponownie.",
+    "back": "Wstecz",
+    "next": "Dalej",
+    "previous": "Wstecz",
+    "readMore": "Czytaj więcej",
+    "comingSoon": "Wkrótce",
+    "openInNewTab": "Otwiera się w nowej karcie",
+    "allRightsReserved": "Wszelkie prawa zastrzeżone.",
+    "share": "Udostępnij",
+    "copied": "Skopiowano do schowka"
+  },
+  "meta": {
+    "homeTitle": "Nerudek — Modelka, Twórczyni i Entuzjastka AI",
+    "homeDescription": "Oficjalna strona Nerudek. Fotografia modowa, kreatywność cyfrowa, eksperymenty z AI i autentyczne treści.",
+    "blogTitle": "Dziennik",
+    "blogDescription": "Artykuły o narzędziach AI, vibe codingu, fotografii, książkach i ogrodnictwie dla początkujących.",
+    "galleryTitle": "Portfolio",
+    "galleryDescription": "Wybrane prace z zakresu mody, edytoriału i sztuki cyfrowej autorstwa Nerudek.",
+    "aboutTitle": "O mnie",
+    "aboutDescription": "Dowiedz się więcej o Nerudek — modelce, twórczyni treści i entuzjastce AI."
+  }
+}
