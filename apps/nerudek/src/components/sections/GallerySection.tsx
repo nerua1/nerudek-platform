@@ -136,12 +136,12 @@ export default function GallerySection() {
       </div>
 
       {/* Lightbox */}
-      {mounted && lightboxIndex !== null && (
+      {mounted && lightboxIndex !== null && images[lightboxIndex] && (
         <div
           className="fixed inset-0 z-50 flex items-center justify-center bg-scrim backdrop-blur-sm"
           role="dialog"
           aria-modal="true"
-          aria-label={images[lightboxIndex]?.alt ?? "Gallery image"}
+          aria-label={images[lightboxIndex]!.alt}
         >
           {/* Close button */}
           <button
@@ -191,8 +191,8 @@ export default function GallerySection() {
           {/* Image */}
           <div className="relative mx-16 flex max-h-[85vh] max-w-[85vw] items-center justify-center">
             <Image
-              src={images[lightboxIndex].src}
-              alt={images[lightboxIndex].alt}
+              src={images[lightboxIndex]!.src}
+              alt={images[lightboxIndex]!.alt}
               width={1200}
               height={1600}
               className="max-h-[85vh] w-auto rounded-lg object-contain"

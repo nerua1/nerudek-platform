@@ -12,9 +12,9 @@ interface BlogPostMeta {
   readingTime: number;
 }
 
-function extractFrontmatter(content: string) {
+function extractFrontmatter(content: string): Record<string, string> {
   const match = content.match(/^---\n([\s\S]*?)\n---/);
-  if (!match) return {};
+  if (!match || !match[1]) return {};
   const frontmatter: Record<string, string> = {};
   for (const line of match[1].split("\n")) {
     const [key, ...rest] = line.split(":");
@@ -41,11 +41,12 @@ async function getPosts(): Promise<BlogPostMeta[]> {
       const content = fs.readFileSync(path.join(postsDir, file), "utf-8");
       const fm = extractFrontmatter(content);
       const body = content.replace(/^---\n[\s\S]*?\n---/, "");
+      const date: string = fm.date || new Date().toISOString().split("T")[0]!;
       return {
         slug: file.replace(/\.mdx$/, ""),
         title: fm.title || "Untitled",
         description: fm.description || "",
-        date: fm.date || new Date().toISOString().split("T")[0],
+        date,
         category: fm.category || "uncategorized",
         readingTime: estimateReadingTime(body),
       };

@@ -5,19 +5,13 @@ import "./globals.css";
 
 export const metadata: Metadata = buildMetadata({ site: siteConfig });
 
-interface RootLayoutProps {
-  children: React.ReactNode;
-  params: Promise<{ locale: string }>;
-}
-
 export default async function RootLayout({
   children,
-  params,
-}: RootLayoutProps) {
-  const { locale } = await params;
-
+}: {
+  children: React.ReactNode;
+}) {
   return (
-    <html lang={locale} suppressHydrationWarning>
+    <html lang="en" suppressHydrationWarning>
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
