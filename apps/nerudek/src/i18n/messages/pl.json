@@ -43,9 +43,16 @@
     "subheading": "Wybrane prace z obszaru mody, edytoriału i sztuki cyfrowej.",
     "viewMore": "Zobacz projekt",
     "categories": {
+      "all": "Wszystko",
       "fashion": "Moda",
       "editorial": "Edytorial",
       "digital": "Cyfrowe"
+    },
+    "lightbox": {
+      "prev": "Poprzednie zdjęcie",
+      "next": "Następne zdjęcie",
+      "close": "Zamknij powiększenie",
+      "counter": "{current} / {total}"
     }
   },
   "blog": {

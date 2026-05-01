@@ -1,6 +1,7 @@
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import HeroSection from "@/components/sections/HeroSection";
+import AboutSection from "@/components/sections/AboutSection";
 
 export default function HomePage() {
   return (
@@ -8,8 +9,7 @@ export default function HomePage() {
       <Navbar />
       <main id="main-content">
         <HeroSection />
-        {/* TODO: <AboutSection /> */}
-        <section id="about" aria-label="About" />
+        <AboutSection />
         {/* TODO: <GallerySection /> */}
         <section id="gallery" aria-label="Gallery" />
         {/* TODO: <BlogSection /> */}

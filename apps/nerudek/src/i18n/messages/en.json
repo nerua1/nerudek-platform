@@ -43,9 +43,16 @@
     "subheading": "Selected works across fashion, editorial, and digital art.",
     "viewMore": "View project",
     "categories": {
+      "all": "All",
       "fashion": "Fashion",
       "editorial": "Editorial",
       "digital": "Digital"
+    },
+    "lightbox": {
+      "prev": "Previous image",
+      "next": "Next image",
+      "close": "Close lightbox",
+      "counter": "{current} / {total}"
     }
   },
   "blog": {
